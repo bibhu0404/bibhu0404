@@ -1,8 +1,5 @@
-background: img src : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTld380Ch6h-LYjlIQBOb9mSUQcMvWBxtF-Ww&s";
-<h1 align="center">Hi 👋, I'm Bibhanshu Mishra</h1>
-<h3 align="center">🎓 2nd Year BTech Student (CSE AIML)</h3>
-
-<h3 align="center">🌱 About Me</h3>
+<h1 align="center">Hi👋 I'm Bibhanshu Mishra</h1>
+<h3 align="center">🎓 2nd Year BTech Student (CSE - AI & ML)</h3>
 <ul align = "center">
   <li>🔬 I’m currently working on <a href="https://leetcode.com/u/bibhu0404/">DSA and Development</a>.</li>
   <li>🌱 I’m currently learning <b>Backend Development</b>.</li>
@@ -13,6 +10,9 @@ background: img src : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTld
   <a href="https://linkedin.com/in/bibhu0404" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://instagram.com/bibhu_0404" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://www.youtube.com/@wee-code" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+
+  <h3 align="center">Dsa platforms:</h3>
+  
   <a href="https://www.codechef.com/users/bibhu0404" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/bibhu0404" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/bibhu_0404" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
