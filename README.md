@@ -1,4 +1,4 @@
-background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTld380Ch6h-LYjlIQBOb9mSUQcMvWBxtF-Ww&s) center center cover no-repeat fixed;
+background: img src : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTld380Ch6h-LYjlIQBOb9mSUQcMvWBxtF-Ww&s" center center cover no-repeat fixed;
 <h1 align="center">Hi 👋, I'm Bibhanshu Mishra</h1>
 <h3 align="center">🎓 2nd Year BTech Student (CSE AIML)</h3>
 
