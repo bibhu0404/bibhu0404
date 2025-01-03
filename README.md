@@ -2,7 +2,7 @@
 <h3 align="center">🎓 2nd Year BTech Student (CSE AIML)</h3>
 
 <h3 align="center">🌱 About Me</h3>
-<ul>
+<ul align = "center>
   <li>🔬 I’m currently working on <a href="https://leetcode.com/u/bibhu0404/">DSA and Development</a>.</li>
   <li>🌱 I’m currently learning <b>Backend Development</b>.</li>
 </ul>
