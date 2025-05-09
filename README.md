@@ -1,3 +1,8 @@
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Bibhanshu+Mishra+👋;DSA+%7C+Web+Dev+%7C+AI+%26+ML+Enthusiast;Code.+Debug.+Repeat+💻;Let%27s+Build+Something+Awesome+Together+🚀" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Hi 👋 I'm Bibhanshu Mishra</h1>
 <h3 align="center">🎓 2nd Year BTech Student (CSE - AI & ML)</h3>
 
