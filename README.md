@@ -5,16 +5,6 @@
 
 ---
 
-<h3 align="center">📈 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bibhu0404&show_icons=true&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibhu0404&layout=compact&theme=radical" />
-</p>
-
----
-
 <h3 align="center">💻 Platforms I Practice On</h3>
 <p align="center">
   <a href="https://leetcode.com/u/bibhu0404/" target="_blank">
