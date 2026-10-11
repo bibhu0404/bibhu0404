@@ -17,7 +17,6 @@ Passionate about Backend Development, Problem Solving, and Building Scalable Sof
 - 🧩 Solved **1000+ DSA problems** across coding platforms
 - 🏆 **LeetCode Peak Rating:** **2018** (Top 2.5%)
 - ⚡ **Codeforces:** Pupil (**Peak Rating: 1350**)
-- ⭐ **CodeChef:** 2-Star (**Peak Rating: 1539**)
 - 🚀 Interested in Backend Development, Distributed Systems, and Software Engineering
 
 ---
